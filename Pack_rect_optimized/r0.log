@@ -1,0 +1,13 @@
+Width: 1.100000e+01
+Height: 1.000000e+01
+X-coordinate: 0.000000e+00
+Y-coordinate: 7.000000e+00
+
+Right: Width = 1.100000e+01 	 Height = 7.000000e+00 	 Area = 7.700000e+01
+V 1 
+Width: 1.100000e+01 Height: 1.000000e+01
+V 2
+Width: 1.100000e+01 Height: 8.000000e+00
+
+Best width: 1.100000e+01
+Best height: 8.000000e+00
