@@ -1,2 +1,2 @@
-# data_structures_in_c
+# Data Structures in C
 Implementation of data structures in C to solve various problems
